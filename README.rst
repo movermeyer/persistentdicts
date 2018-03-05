@@ -143,7 +143,7 @@ persistentdicts.cassandradict.CassandraDict
    :target: https://travis-ci.org/chmduquesne/persistentdicts
 .. |Coverage Status| image:: https://coveralls.io/repos/chmduquesne/persistentdicts/badge.svg?branch=master
    :target: https://coveralls.io/r/chmduquesne/persistentdicts?branch=master
-.. |License| image:: https://pypip.in/license/persistentdicts/badge.svg?style=flat
+.. |License| image:: https://img.shields.io/pypi/l/persistentdicts.svg?style=flat
    :target: https://pypi.python.org/pypi/persistentdicts/
-.. |Supported Python versions| image:: https://pypip.in/py_versions/persistentdicts/badge.svg?style=flat
+.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/persistentdicts.svg?style=flat
     :target: https://pypi.python.org/pypi/persistentdicts/
